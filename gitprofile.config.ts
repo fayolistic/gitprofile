@@ -2,12 +2,12 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'fayolistic', // Your GitHub org/user name. (This is the only required config)
   },
   /**
-   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
+   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/fayolistic/fayolistic.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
-   * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
+   * for example your repository is at https://github.com/fayolistic/portfolio, then set base to '/portfolio/'.
    */
   base: '/gitprofile/',
   projects: {
@@ -20,12 +20,12 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['fayolistic/my-project1', 'fayolistic/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['fayolistic/gitprofile', 'fayolistic/portfolio-website'], // List of repository names to display. example: ['fayolistic/my-project1', 'fayolistic/my-project2']
       },
     },
     external: {
@@ -235,7 +235,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/fayolistic/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
