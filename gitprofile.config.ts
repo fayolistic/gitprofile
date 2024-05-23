@@ -33,19 +33,19 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Traidr',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Traidr is an online local community marketplace facilitating the buying and selling of pre-owned goods such as furniture, appliances, clothing, and antiques, catering to the expanding market demand, which has seen a significant increase of over 30% in recent years.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://dragon.online-convert.com/download-file/4e6e7154-706a-4730-b1d1-f211605b2fd8/f417c136-214e-42c4-84bf-b03b5340e829',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'QuickGrade App',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Quick Grade, a user-friendly and robust platform, to enhance the learning journey for students, witnessing a remarkable growth of over 40% in user enrollment and engagement, reflecting the growing demand for efficient assessment solutions among students striving for academic excellence',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://dragon.online-convert.com/download-file/f9170c8f-99db-41c5-b914-246c6023b6f7/9904c7c9-52ed-48a4-872e-bd704ca52d49',
           link: 'https://example.com',
         },
       ],
@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl: 'https://flowcv.com/resume/sqsittftpd', // Empty fileUrl will hide the `Download Resume` button.
-    // https://app.flowcv.com/resume/share
+    //
   },
   skills: [
     'TypeScript',
@@ -99,40 +99,40 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Decagon',
+      position: 'Associate Software Engineer',
+      from: 'January  2023',
       to: 'Present',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
+      company: 'Speedaf Express',
+      position: 'Data Analyst',
+      from: 'September 2020',
+      to: 'January 2023',
       companyLink: 'https://example.com',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Scrum Fundamental Certficate',
+      body: 'SFC',
+      year: '2023',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Decagon Software Engineering Institute',
+      degree: 'Diploma',
+      from: 'January 2023',
+      to: 'December 2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Yaba College Of Technology',
+      degree: 'HND',
+      from: '2016',
+      to: '2018',
     },
   ],
   publications: [
@@ -170,7 +170,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'cupcake',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
