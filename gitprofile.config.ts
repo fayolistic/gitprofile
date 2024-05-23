@@ -79,8 +79,8 @@ const CONFIG = {
     email: 'olamiposiadekola31@gmail.com',
   },
   resume: {
-    fileUrl: 'https://app.flowcv.com/resume/share', // Empty fileUrl will hide the `Download Resume` button.
-    // https://flowcv.com/resume/sqsittftpd
+    fileUrl: 'https://flowcv.com/resume/sqsittftpd', // Empty fileUrl will hide the `Download Resume` button.
+    // https://app.flowcv.com/resume/share
   },
   skills: [
     'TypeScript',
